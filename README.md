@@ -10,4 +10,6 @@ git checkout master
 git merge orig
 
 git push
+
+test
 ```
